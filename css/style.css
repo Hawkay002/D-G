@@ -135,8 +135,8 @@ animation: wobble 2s infinite;
 }*/
 /*=== wobble effect finish ===*/
 .about-img{
- margin-left: 50px;
- right: -50px;
+ margin-left: -100px;
+ right: -60px;
 }
 
 .display-1{
