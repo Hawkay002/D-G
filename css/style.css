@@ -126,7 +126,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 
 /*=== wobble effect start ===*/
-@keyframes wobble {
+/*@keyframes wobble {
   0% {transform: translateY(0);}
   50% {transform: translateY(-15px);}
   100% {transform: translateY(0);}
@@ -134,7 +134,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 .wobble-animation {
 animation: wobble 2s infinite;
-}
+}*/
 /*=== wobble effect finish ===*/
 .about-img{
  margin-left: -100px;
