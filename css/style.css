@@ -138,7 +138,7 @@ animation: wobble 2s infinite;
 /*=== wobble effect finish ===*/
 .about-img{
  margin-left: -100px;
- right: -90px;
+ right: -60px;
 }
 
 .display-1{
@@ -162,9 +162,9 @@ animation: wobble 2s infinite;
   color: #ffffff;
 }
 .btn{
-  border: 2px solid #1d69f7;
+  border: 2px solid rgb(29, 105, 247);
 } 
-.btn-white{  /*===================== original color white ======================*/
+.btn-white{
   background-color: #ffffff;
   border:2px solid #ffffff;
 }
