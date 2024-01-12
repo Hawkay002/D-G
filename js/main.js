@@ -1,11 +1,11 @@
 (function ($) {
     "use strict";
 
-    document.addEventListener("DOMContentLoaded", function() {
+/*document.addEventListener("DOMContentLoaded", function() {
         var loadingScreen = document.createElement("div");
         loadingScreen.id = "loading-screen";
         loadingScreen.innerHTML = `
-          <video id="video-player" src="RENDER_2.mp4" autoplay muted></video>
+         <video id="video-player" src="RENDER_2.mp4" autoplay muted></video>
         `;
         document.body.appendChild(loadingScreen);
       
@@ -15,7 +15,7 @@
           loadingScreen.style.pointerEvents = "none";
           document.getElementById("website-content").style.display = "block";
         });
-      });
+      });*/
 
     // Navbar on scrolling
     $(window).scroll(function () {
