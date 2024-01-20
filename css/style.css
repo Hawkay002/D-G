@@ -117,25 +117,6 @@ h1,h2,h3,h4,h5,h6,p{
     padding: 10px 0;
   }
 }
-/* ================ Navigation Menu ====================*/
-.navbar-light {
-  display: block; /* Show the navigation menu by default */
-}
-
-@media (max-width: 991.98px) {
-  .navbar-light {
-    display: none; /* Hide the navigation menu on screens smaller than 992px */
-  }
-
-  .navbar-light.show {
-    display: block; /* Show the navigation menu when toggled on smaller screens */
-  }
-
-  .navbar-light .navbar-nav .nav-link {
-    padding: 10px 0;
-  }
-}
-
 
 /*===================== Hero section ======================*/
 
