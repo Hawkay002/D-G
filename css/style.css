@@ -176,8 +176,8 @@ a.btn-outline-primary:hover{
   color:#D4AF37
 }
 .white {
-  background-color: #D4AF37; /* Change the background color to #D4AF37 */
-  color: #000; /* Change the text color to a suitable contrasting color */
+  background-color: transparent; /* Change the background color to #D4AF37 */
+  color: #000000; /* Change the text color to a suitable contrasting color */
 }
 
 .btn-outline-primary {
@@ -187,7 +187,7 @@ a.btn-outline-primary:hover{
 
 /* Add these rules if necessary to adjust the hover state */
 .white:hover {
-  background-color: #000; /* Change the background color on hover */
+  background-color: #000000; /* Change the background color on hover */
   color: #D4AF37; /* Change the text color on hover */
 }
 
