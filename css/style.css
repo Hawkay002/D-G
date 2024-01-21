@@ -44,6 +44,7 @@ body {
   color: #D4AF37;
   text-align: left;
   background-color: #000000;
+  overflow-x: hidden;
 }
 
 a {
