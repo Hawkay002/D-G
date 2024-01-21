@@ -45,6 +45,7 @@ body {
   text-align: left;
   background-color: #000000;
   height: -webkit-fill-available;
+  width: -webkit-fill-available;
 }
 
 a {
