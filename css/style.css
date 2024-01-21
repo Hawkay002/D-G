@@ -197,13 +197,6 @@ a.btn-outline-primary:hover{
   border-color: #D4AF37; /* Change the border color on hover */
 }
 
-@media (max-width: 767px) {
-  .about-img{
-    margin-left: 20px;
-    right: 0px;
-    top: 30px;
-   }
-}
 /*===================== Progress Bar ====================*/
 
 .progress {
