@@ -47,11 +47,12 @@ body {
   height: -webkit-fill-available;
   width: 100%;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 640px) {
     body {
         width: auto;
     }
 }
+
 a {
   color: #D4AF37;
   text-decoration: none;
