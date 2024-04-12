@@ -44,7 +44,9 @@ body {
   color: #D4AF37;
   text-align: left;
   display: flex; /* Add Flexbox */
-
+  flex-direction: column; /* Items stack vertically */
+  justify-content: center; /* Horizontally center content */
+  align-items: center; /* Vertically center content */
   background-color: #000000; /* Background color */
 }
 
