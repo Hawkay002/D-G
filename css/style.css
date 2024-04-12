@@ -43,7 +43,10 @@ body {
   line-height: 1.5;
   color: #D4AF37;
   text-align: left;
-  background-color: #000000;
+  display: flex; /* Add Flexbox */
+  justify-content: center; /* Horizontally center content */
+  align-items: center; /* Vertically center content */
+  background-color: #000000; /* Background color */
 }
 
 a {
